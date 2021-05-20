@@ -1,0 +1,19 @@
+body{
+    font-family: 'Newsreader', serif;
+}
+
+h1{
+    font-size: 50px ;
+}
+.name-highlight{
+    color: #007eff;
+}
+.half-side{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-side img{
+    width: 100%;
+}
